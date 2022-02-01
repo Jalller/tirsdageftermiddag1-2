@@ -1,6 +1,9 @@
-nik/grøn er fin
-og det er blå også
-har jeg lært
+
+et eller andet skrevet af blå
+noget andet blå
+også blå
+det her er skrevet af nik/grøn
+
 
 g2
 
@@ -9,11 +12,11 @@ g3
 
 
 
+b1/m1
 
+b2/m2
 
-
-
-
+b3/m3
 
 
 
